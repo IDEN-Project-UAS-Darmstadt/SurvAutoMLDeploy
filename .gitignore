@@ -1,0 +1,7 @@
+old
+mlruns
+data
+nohup.out
+/model
+__pycache__/
+*.pyc

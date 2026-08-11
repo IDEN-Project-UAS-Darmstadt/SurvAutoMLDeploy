@@ -1,0 +1,47 @@
+services:
+
+  devcontainer:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      target: devcontainer
+    ports:
+      - "127.0.0.1:8001:8000"
+    volumes:
+      - .:/workspace
+    environment:
+      - REDIS_CONNECTION=redis://redis:6379
+      - API_BASEURL=http://mapi:8000
+    command: sleep 1
+
+  redis:
+    image: redis:latest
+
+  mapi:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      target: api
+    ports:
+      - "127.0.0.1:8000:8000"
+    environment:
+      - REDIS_CONNECTION=redis://redis:6379
+    command: ["fastapi", "run", "--host", "0.0.0.0", "--port", "8000", "src/api.py"]
+
+  rqworker:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      target: worker
+    environment:
+      REDIS_CONNECTION: "redis://redis:6379"
+
+  queue_dashboard:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      target: rqdashboard
+    ports:
+      - "127.0.0.1:9181:9181"
+    environment:
+      RQ_DASHBOARD_REDIS_URL: "redis://redis:6379"

@@ -1,0 +1,132 @@
+variable,human_name,unit,group,description
+recipient_age,Recipient Age,years,Recipient,TODO FOR TOOLTIPS DESCR
+recipient_bloodgroup,Recipient Blood Group,,Recipient,TODO FOR TOOLTIPS DESCR
+recipient_bloodtransfusion_before_reg,Blood Transfusion Before Registration,,Recipient,TODO FOR TOOLTIPS DESCR
+recipient_nationality,Recipient Nationality,,Recipient,TODO FOR TOOLTIPS DESCR
+recipient_sex,Recipient Sex,,Recipient,TODO FOR TOOLTIPS DESCR
+recipient_weight_kg,Recipient Weight,kg,Recipient,TODO FOR TOOLTIPS DESCR
+recipient_total_number_of_changes_on_waitlist,Total Number of Changes on Waitlist,,Recipient,TODO FOR TOOLTIPS DESCR
+recipient_epstein_barr_virus_igg,Recipient Epstein-Barr Virus IgG,,Recipient,TODO FOR TOOLTIPS DESCR
+recipient_hepatitis_b_core_antibodies,Recipient Hepatitis B Core Antibodies,,Recipient,TODO FOR TOOLTIPS DESCR
+recipient_toxoplasmosis,Recipient Toxoplasmosis,,Recipient,TODO FOR TOOLTIPS DESCR
+recipient_cytomegalovirus_igg,Recipient Cytomegalovirus IgG,,Recipient,TODO FOR TOOLTIPS DESCR
+recipient_hepatitis_b_surface_antibodies,Hepatitis B Surface Antibodies,,Recipient,TODO FOR TOOLTIPS DESCR
+recipient_hepatitis_b_surface_antigens,Recipient Hepatitis B Surface Antigens,,Recipient,TODO FOR TOOLTIPS DESCR
+recipient_hiv_antigens,Recipient HIV Antigens,,Recipient,TODO FOR TOOLTIPS DESCR
+lastPRA_not_zero,Last PRA Not Zero,,Recipient,TODO FOR TOOLTIPS DESCR
+organ_removal_has_artery_patch,Has Artery Patch,,Transplantation Process,TODO FOR TOOLTIPS DESCR
+organ_removal_is_enbloc,En Bloc Removal,,Transplantation Process,TODO FOR TOOLTIPS DESCR
+organ_removal_heparin_days,Heparin Administration Days,days,Transplantation Process,TODO FOR TOOLTIPS DESCR
+organ_removal_veins,Veins,,Transplantation Process,TODO FOR TOOLTIPS DESCR
+organ_removal_organ_quality,Organ Quality,,Transplantation Process,TODO FOR TOOLTIPS DESCR
+organ_removal_perfusion_days,Perfusion Duration,days,Transplantation Process,TODO FOR TOOLTIPS DESCR
+organ_removal_perfusion_quality,Perfusion Quality,,Transplantation Process,TODO FOR TOOLTIPS DESCR
+organ_removal_perfusion_solution,Perfusion Solution,,Transplantation Process,TODO FOR TOOLTIPS DESCR
+organ_removal_vein_patch,Vein Patch,,Transplantation Process,TODO FOR TOOLTIPS DESCR
+organ_removal_warm_ischaemia_time_min,Warm Ischaemia Time,min,Transplantation Process,TODO FOR TOOLTIPS DESCR
+donor_age,Donor Age,years,Donor,TODO FOR TOOLTIPS DESCR
+donor_alcohol_consumption,Alcohol Consumption,,Donor,TODO FOR TOOLTIPS DESCR
+donor_drug_use,Drug Use,,Donor,TODO FOR TOOLTIPS DESCR
+donor_height_cm,Height,cm,Donor,TODO FOR TOOLTIPS DESCR
+donor_hospital_days,Donor Hospital Days,days,Donor,TODO FOR TOOLTIPS DESCR
+donor_hypertension,Hypertension,,Donor,TODO FOR TOOLTIPS DESCR
+donor_sex,Sex,,Donor,TODO FOR TOOLTIPS DESCR
+donor_smoker,Smoker,,Donor,TODO FOR TOOLTIPS DESCR
+donor_ventilation_days,Ventilation Duration,days,Donor,TODO FOR TOOLTIPS DESCR
+donor_weight_kg,Weight,kg,Donor,TODO FOR TOOLTIPS DESCR
+donor_brain_damage_location,Brain Damage Location,,Donor,TODO FOR TOOLTIPS DESCR
+donor_brain_damage_type,Brain Damage Type,,Donor,TODO FOR TOOLTIPS DESCR
+donor_death_days,Days Since Death,days,Donor,TODO FOR TOOLTIPS DESCR
+donor_death_reason_icd10,Cause of Death (ICD-10),,Donor,TODO FOR TOOLTIPS DESCR
+donor_death_type,Death Type,,Donor,TODO FOR TOOLTIPS DESCR
+donor_diagnosis_earliest_days,Earliest Diagnosis Days,days,Donor,TODO FOR TOOLTIPS DESCR
+donor_diagnosis_icd10,Diagnosis (ICD-10),,Donor,TODO FOR TOOLTIPS DESCR
+donor_blood_gas_excess_mmol,Base Excess,mmol/L,Donor,TODO FOR TOOLTIPS DESCR
+donor_blood_gas_hco3_mmol,Bicarbonate (HCO3),mmol/L,Donor,TODO FOR TOOLTIPS DESCR
+donor_blood_gas_o2_percent,Oxygen Saturation,%,Donor,TODO FOR TOOLTIPS DESCR
+donor_blood_gas_p_h_mmhg,pH,mmHg,Donor,TODO FOR TOOLTIPS DESCR
+donor_blood_gas_p_o2_mmhg,Partial Pressure of Oxygen (pO2),mmHg,Donor,TODO FOR TOOLTIPS DESCR
+donor_blood_gas_peep_cm_h2o,PEEP,cmH2O,Donor,TODO FOR TOOLTIPS DESCR
+donor_chem_alanine_transaminase_u_per_l,Alanine Transaminase,U/L,Donor,TODO FOR TOOLTIPS DESCR
+donor_chem_bilirubin_umol_per_l,Bilirubin,µmol/L,Donor,TODO FOR TOOLTIPS DESCR
+donor_chem_calcium_mmol_per_l,Calcium,mmol/L,Donor,TODO FOR TOOLTIPS DESCR
+donor_chem_chloride_mmol_per_l,Chloride,mmol/L,Donor,TODO FOR TOOLTIPS DESCR
+donor_chem_creatinine_umol_per_l,Creatinine,µmol/L,Donor,TODO FOR TOOLTIPS DESCR
+donor_chem_creatinine_clearance_ml_per_min,Creatinine Clearance,mL/min,Donor,TODO FOR TOOLTIPS DESCR
+donor_chem_creatine_kinase_u_per_l,Creatine Kinase,U/L,Donor,TODO FOR TOOLTIPS DESCR
+donor_chem_c_reactive_protein_mg_per_l,C-Reactive Protein,mg/L,Donor,TODO FOR TOOLTIPS DESCR
+donor_chem_fibrinogen_g_per_l,Fibrinogen,g/L,Donor,TODO FOR TOOLTIPS DESCR
+donor_stationary_treatment,Stationary Treatment,,Donor,TODO FOR TOOLTIPS DESCR
+donor_treated_by_doctor,Treated by Doctor,,Donor,TODO FOR TOOLTIPS DESCR
+donor_chem_gamma_glutamyltransferase_u_per_l,Gamma-Glutamyltransferase,U/L,Donor,TODO FOR TOOLTIPS DESCR
+donor_chem_glucose_mmol_per_l,Glucose,mmol/L,Donor,TODO FOR TOOLTIPS DESCR
+donor_chem_glutamic_oxaloacetic_transaminase_u_per_l,Glutamic Oxaloacetic Transaminase,U/L,Donor,TODO FOR TOOLTIPS DESCR
+donor_chem_hematocrit_percent,Hematocrit,%,Donor,TODO FOR TOOLTIPS DESCR
+donor_chem_international_normalized_ratio,International Normalized Ratio,,Donor,TODO FOR TOOLTIPS DESCR
+donor_chem_lactate_dehydrogenase_u_per_l,Lactate Dehydrogenase,U/L,Donor,TODO FOR TOOLTIPS DESCR
+donor_chem_leukocytes_g_per_l,Leukocytes,g/L,Donor,TODO FOR TOOLTIPS DESCR
+donor_chem_alkaline_phosphatase_u_per_l,Alkaline Phosphatase,U/L,Donor,TODO FOR TOOLTIPS DESCR
+donor_chem_lipase_u_per_l,Lipase,U/L,Donor,TODO FOR TOOLTIPS DESCR
+donor_chem_partial_thromboplastin_time_sec,Partial Thromboplastin Time,s,Donor,TODO FOR TOOLTIPS DESCR
+donor_sodium_mmol_per_l,Sodium,mmol/L,Donor,TODO FOR TOOLTIPS DESCR
+donor_chem_thrombocytes_g_per_l,Thrombocytes,g/L,Donor,TODO FOR TOOLTIPS DESCR
+donor_chem_total_protein_g_per_l,Total Protein,g/L,Donor,TODO FOR TOOLTIPS DESCR
+donor_chem_urea_mmol_per_l,Urea,mmol/L,Donor,TODO FOR TOOLTIPS DESCR
+donor_urine_glucose_in_urine,Glucose in Donor Urine,,Donor,TODO FOR TOOLTIPS DESCR
+donor_urine_hemoglobin_in_urine,Hemoglobin in Donor Urine,,Donor,TODO FOR TOOLTIPS DESCR
+donor_urine_leukocytes_in_urine,Leukocytes in Donor Urine,,Donor,TODO FOR TOOLTIPS DESCR
+donor_urine_nitrite_in_urine,Nitrite in Donor Urine,,Donor,TODO FOR TOOLTIPS DESCR
+donor_urine_protein_in_urine,Protein in Donor Urine,,Donor,TODO FOR TOOLTIPS DESCR
+donor_virus_cytomegalovirus_igg,Donor Cytomegalovirus IgG,,Donor,TODO FOR TOOLTIPS DESCR
+donor_virus_epstein_barr_igg,Donor Epstein-Barr Virus IgG,,Donor,TODO FOR TOOLTIPS DESCR
+donor_virus_hepatitis_b_core_antibodies,Donor Hepatitis B Core Antibodies,,Donor,TODO FOR TOOLTIPS DESCR
+donor_virus_hepatitis_b_surface_antigens,Donor Hepatitis B Surface Antigens,,Donor,TODO FOR TOOLTIPS DESCR
+donor_virus_hiv_antigens,Donor HIV Antigens,,Donor,TODO FOR TOOLTIPS DESCR
+donor_virus_toxoplasmosis,Donor Toxoplasmosis,,Donor,TODO FOR TOOLTIPS DESCR
+donor_med_antibiotic,Antibiotic Given,,Donor,TODO FOR TOOLTIPS DESCR
+donor_med_days_since_start,Days Since Antibiotic Start,days,Donor,TODO FOR TOOLTIPS DESCR
+donor_monit_diastolic_blood_pressure_mm_hg,Diastolic Blood Pressure,mmHg,Donor,TODO FOR TOOLTIPS DESCR
+donor_monit_diuresis_interval_h,Diuresis Interval,h,Donor,TODO FOR TOOLTIPS DESCR
+donor_monit_diuresis_ml,Diuresis,mL,Donor,TODO FOR TOOLTIPS DESCR
+donor_monit_last_bpm,Last Heart Rate,bpm,Donor,TODO FOR TOOLTIPS DESCR
+donor_monit_systolic_blood_pressure_mm_hg,Systolic Blood Pressure,mmHg,Donor,TODO FOR TOOLTIPS DESCR
+donor_monit_temperature_c,Temperature,°C,Donor,TODO FOR TOOLTIPS DESCR
+donor_exam_worst_result,Worst Examination Result,,Donor,TODO FOR TOOLTIPS DESCR
+transplantation_admission_waitlist_years,Years on Waitlist,years,Transplantation Process,TODO FOR TOOLTIPS DESCR
+transplantation_program,Transplantation Program,,Transplantation Process,TODO FOR TOOLTIPS DESCR
+transplantation_assignment_type,Assignment Type,,Transplantation Process,TODO FOR TOOLTIPS DESCR
+transplantation_destination,Destination,,Transplantation Process,TODO FOR TOOLTIPS DESCR
+transplantation_remaining_urine_production_ml_per_h,Remaining Urine Production,mL/h,Transplantation Process,TODO FOR TOOLTIPS DESCR
+transplantation_urine_production_ml_per_h,Urine Production,mL/h,Transplantation Process,TODO FOR TOOLTIPS DESCR
+transplantation_warm_ischemia_time_min,Warm Ischemia Time,min,Transplantation Process,TODO FOR TOOLTIPS DESCR
+transplantation_cold_ischemia_time_min,Cold Ischemia Time,min,Transplantation Process,TODO FOR TOOLTIPS DESCR
+transplantation_discharge_after_days,Discharge After Days,days,Transplantation Process,TODO FOR TOOLTIPS DESCR
+transplantation_hospitalization_days,Hospitalization Days,days,Transplantation Process,TODO FOR TOOLTIPS DESCR
+waiting_list_poss_donor_hepatitis_c_antibodies,Possible Donor Hepatitis C Antibodies,,Recipient,TODO FOR TOOLTIPS DESCR
+waiting_list_dialysis_years,Dialysis Duration,years,Recipient,TODO FOR TOOLTIPS DESCR
+waiting_list_latest_dialysis_type,Latest Dialysis Type,,Recipient,TODO FOR TOOLTIPS DESCR
+waiting_list_kidney_base_disease_icd10,Base Kidney Disease (ICD-10),,Recipient,TODO FOR TOOLTIPS DESCR
+waiting_list_poss_donor_enbloc,Possible Donor En Bloc,,Recipient,TODO FOR TOOLTIPS DESCR
+waiting_list_poss_donor_esp,Possible Donor ESP,,Recipient,TODO FOR TOOLTIPS DESCR
+waiting_list_poss_donor_extended_allocation,Possible Donor Extended Allocation,,Recipient,TODO FOR TOOLTIPS DESCR
+waiting_list_poss_donor_hepatitis_b_surface_antigens,Possible Donor Hepatitis B Surface Antigens,,Recipient,TODO FOR TOOLTIPS DESCR
+waiting_list_poss_donor_max_age,Possible Donor Max Age,years,Recipient,TODO FOR TOOLTIPS DESCR
+waiting_list_poss_donor_min_age,Possible Donor Min Age,years,Recipient,TODO FOR TOOLTIPS DESCR
+waiting_list_poss_donor_substance_abuse,Possible Donor Substance Abuse,,Recipient,TODO FOR TOOLTIPS DESCR
+transplantation_dialysis_counts,Dialysis Counts,,Transplantation Process,TODO FOR TOOLTIPS DESCR
+donor_crossmatch_result,Crossmatch Result,,Transplantation Process,TODO FOR TOOLTIPS DESCR
+donor_crossmatch_t_cell_match,T-Cell Crossmatch,,Transplantation Process,TODO FOR TOOLTIPS DESCR
+deltaPRA_unknown_DTT,deltaPRA Unknown DTT,,Transplantation Process,TODO FOR TOOLTIPS DESCR
+hla_mismatch_broad_mis_a,HLA Mismatch Broad A,,Transplantation Process,TODO FOR TOOLTIPS DESCR
+hla_mismatch_broad_mis_b,HLA Mismatch Broad B,,Transplantation Process,TODO FOR TOOLTIPS DESCR
+hla_mismatch_broad_mis_dr,HLA Mismatch Broad DR,,Transplantation Process,TODO FOR TOOLTIPS DESCR
+donor_untreated_diagnoses,Untreated Diagnoses,,Donor,TODO FOR TOOLTIPS DESCR
+donor_total_diagnoses,Total Diagnoses,,Donor,TODO FOR TOOLTIPS DESCR
+transplantation_immunosuppression,Immunosuppression,,Transplantation Process,TODO FOR TOOLTIPS DESCR
+recipient_hepatitis_c_antibodies,Recipient Hepatitis C Antibodies,,Recipient,TODO FOR TOOLTIPS DESCR
+donor_virus_syphilis,Donor Syphilis,,Donor,TODO FOR TOOLTIPS DESCR
+donor_blood_gas_ph,Blood Gas pH,mmHg,Donor,TODO FOR TOOLTIPS DESCR
+transplantation_dialysis,Dialysis,,Transplantation Process,TODO FOR TOOLTIPS DESCR
+donor_ambulant_treatment,Ambulant Treatment,,Donor,TODO FOR TOOLTIPS DESCR
+donor_death_diagnosis_end_days,Death Diagnosis End Days,days,Donor,TODO FOR TOOLTIPS DESCR
+organ_removal_ureter_length,Ureter Length,cm,Transplantation Process,TODO FOR TOOLTIPS DESCR
