@@ -15,7 +15,7 @@ jobs:
       - name: Extract conda.yaml from example_model.tgz
         run: |
           mkdir -p model
-          tar -xzf example_model.tgz -C model conda.yaml
+          tar -xzf example_model.tgz -C model ./conda.yaml
 
       - uses: mamba-org/setup-micromamba@v3
         with:
