@@ -160,8 +160,11 @@ def load_model_metadata():
 
     # Load the input example
     input_example_path = os.path.join(par_dir, "serving_input_example.json")
+    # fall back to the model input example, if the src folder has none
+    if not os.path.exists(input_example_path):
+        input_example_path = os.path.join(MODELDIR, "serving_input_example.json")
     with open(input_example_path) as indata:
-        data = json.load(indata)
+        data = json.load(indata)["dataframe_split"]
     data = pd.DataFrame(data["data"], columns=data["columns"])
 
     # Bool columns need to be object (if they allow missing values)

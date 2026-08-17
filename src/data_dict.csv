@@ -130,3 +130,27 @@ transplantation_dialysis,Dialysis,,Transplantation Process,TODO FOR TOOLTIPS DES
 donor_ambulant_treatment,Ambulant Treatment,,Donor,TODO FOR TOOLTIPS DESCR
 donor_death_diagnosis_end_days,Death Diagnosis End Days,days,Donor,TODO FOR TOOLTIPS DESCR
 organ_removal_ureter_length,Ureter Length,cm,Transplantation Process,TODO FOR TOOLTIPS DESCR
+organ_removal_ureters,Ureters,,Transplantation Process,TODO FOR TOOLTIPS DESCR
+organ_removal_heparin_over_a_day,Heparin Over a Day,,Transplantation Process,TODO FOR TOOLTIPS DESCR
+recipient_cytomegalovirus_igm,Recipient Cytomegalovirus IgM,,Recipient,TODO FOR TOOLTIPS DESCR
+donor_chem_creatine_kinase_mb_u_per_l,Creatine Kinase MB,U/L,Donor,TODO FOR TOOLTIPS DESCR
+donor_monit_diuresis_last_hour_ml,Diuresis Last Hour,mL,Donor,TODO FOR TOOLTIPS DESCR
+max_pra,Max PRA,%,Recipient,TODO FOR TOOLTIPS DESCR
+organ_removal_perfusion_volume_ml,Perfusion Volume,mL,Transplantation Process,TODO FOR TOOLTIPS DESCR
+organ_removal_stitches_days,Stitches Duration,days,Transplantation Process,TODO FOR TOOLTIPS DESCR
+last_pra_not_zero,Last PRA Not Zero,,Recipient,TODO FOR TOOLTIPS DESCR
+donor_rhesus,Donor Rhesus,,Donor,TODO FOR TOOLTIPS DESCR
+donor_chem_prothrombin_time_sec,Prothrombin Time,s,Donor,TODO FOR TOOLTIPS DESCR
+donor_bloodgroup,Donor Blood Group,,Donor,TODO FOR TOOLTIPS DESCR
+donor_urine_catheter_days,Urine Catheter Duration,days,Donor,TODO FOR TOOLTIPS DESCR
+transplantation_hospitalization_over_a_day,Hospitalization Over a Day,,Transplantation Process,TODO FOR TOOLTIPS DESCR
+recipient_bloodtransfusion,Blood Transfusion,,Recipient,TODO FOR TOOLTIPS DESCR
+donor_death_multiple_days_ago,Death Multiple Days Ago,,Donor,TODO FOR TOOLTIPS DESCR
+donor_virus_hiv_antibodies,Donor HIV Antibodies,,Donor,TODO FOR TOOLTIPS DESCR
+donor_monit_diuresis_ml_per_hour,Diuresis,mL/h,Donor,TODO FOR TOOLTIPS DESCR
+recipient_total_years_on_waitlist,Total Years on Waitlist,years,Recipient,TODO FOR TOOLTIPS DESCR
+donor_chem_amylase_u_per_l,Amylase,U/L,Donor,TODO FOR TOOLTIPS DESCR
+donor_chem_quick_percent,Quick,%,Donor,TODO FOR TOOLTIPS DESCR
+donor_monit_central_venous_pressure_mm_hg,Central Venous Pressure,mmHg,Donor,TODO FOR TOOLTIPS DESCR
+donor_smoking_amount,Smoking Amount,,Donor,TODO FOR TOOLTIPS DESCR
+donor_blood_gas_o2_saturation,Oxygen Saturation,%,Donor,TODO FOR TOOLTIPS DESCR

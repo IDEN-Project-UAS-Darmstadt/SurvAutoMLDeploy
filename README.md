@@ -109,15 +109,15 @@ without blocking.
    For quick testing, use the included `example_model.tgz`:
 
    ```bash
-   mkdir model
-   tar -xzf example_model.tgz -C model/
+   mkdir cox
+   tar -xzf example_model.tgz -C cox/
    ```
 
 2. **Configure Model Metadata**
 
    Update the extracted model configuration files:
-   * `model/src/data_dict.csv` — Variable definitions and clinical descriptions
-   * `model/src/serving_input_example.json` — Sample input record for example data
+   * `cox/src/data_dict.csv` — Variable definitions and clinical descriptions
+   * `cox/src/serving_input_example.json` — Sample input record for example data
 
 ### Run with Docker Compose
 

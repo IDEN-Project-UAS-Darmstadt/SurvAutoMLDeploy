@@ -5,3 +5,4 @@ nohup.out
 /model
 __pycache__/
 *.pyc
+/cox

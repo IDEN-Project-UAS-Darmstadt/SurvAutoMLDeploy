@@ -1,0 +1,13 @@
+md5: a20effc496d67e6a3f9ece079bbe6c98
+frozen: true
+deps:
+- path: workdir/results/cox
+  repo:
+    url: ../SurvAutoML
+    rev_lock: 1f97fe4ebd2fcc92c9db95cb9b352f26c1880cf1
+outs:
+- md5: 85eae1bf87c3f81161ed7280009986f8.dir
+  size: 535890011
+  nfiles: 40
+  hash: md5
+  path: cox
